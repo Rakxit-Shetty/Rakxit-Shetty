@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rakxit-Shetty
 
     I'm not exceptionally gifted neither am i especially bright.
-    I think i'm only curious about this new undocumented feature which people are calling as bug.
+    I think i'm just curious about this new undocumented feature on my new project which people are calling as bug.
 
 - 👀 I’m interested in reducing to commit my codes
 - 🌱 I’m currently learning to reduce bugs in my clean code
