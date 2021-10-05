@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rakxit-Shetty
-- 👀 I’m interested in Stack
+- 👀 I’m interested in reducing to commit my codes
 - 🌱 I’m currently learning to reduce bugs in my clean code
 - 💞️ I’m looking to collaborate on how to copy paste the best of code effiently
 - 📫 How to reach me https://in.linkedin.com/in/rakshit-shetty-7a7340203?trk=people-guest_people_search-card
