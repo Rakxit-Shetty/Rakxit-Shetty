@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rakxit-Shetty
 
     I'm not exceptionally gifted neither am i especially bright.
-    I think i'm just curious about this new undocumented feature on my new project which people are calling as bug.
+    I think i'm just curious about this bug on my new project which my professor took it as an undocumented feature.
 
 - 👀 I’m interested in Building digital assets which can exist on a cross platform level.
 - 🌱 I’m currently learning to reduce bugs in my Code😜
