@@ -3,9 +3,9 @@
     I'm not exceptionally gifted neither am i especially bright.
     I think i'm just curious about this new undocumented feature on my new project which people are calling as bug.
 
-- 👀 I’m interested in reducing to commit my codes
-- 🌱 I’m currently learning to reduce bugs in my clean code
-- 💞️ I’m looking to collaborate on how to copy paste the best of code effiently
+- 👀 I’m interested in Building digital assets which can exist on a cross platform level.
+- 🌱 I’m currently learning to reduce bugs in my Code😜
+- 💞️ I’m looking to collaborate on building high end Web application which could make my CV more attractive.
 - 📫 How to reach me https://in.linkedin.com/in/rakshit-shetty-7a7340203?trk=people-guest_people_search-card
 
 
