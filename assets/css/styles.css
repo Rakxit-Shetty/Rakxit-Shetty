@@ -1046,15 +1046,15 @@ h6 {
 }
 
 .white-vertion.home-slider .mh-home .img-border {
-    border: 20px solid rgba(0, 0, 0, 0.52);
+    border: 20px solid rgba(242, 203, 8, 0.856);
 }
 
 .white-vertion.home-slider .mh-home .img-border {
-    border-color: rgba(0, 0, 0, 0.62);
+    border-color: rgba(242, 203, 8, 0.856);
 }
 
 .white-vertion.home-slider .mh-home .hero-img img {
-    border-color: rgba(0, 0, 0, 0.4);
+    border-color: rgba(242, 203, 8, 0.856);
 }
 
 .white-vertion.home-slider .img-color-overlay {
@@ -1693,7 +1693,7 @@ h6 {
     margin: 0 auto;
     float: none;
     text-align: center;
-    border: 20px solid rgba(0, 0, 0, 0.17);
+    border: 20px solid rgba(0, 0, 0, 0.473);
     border-radius: 50%;
 }
 
