@@ -666,11 +666,11 @@ ul li {
 }
 
 .home-2-img {
-    background-image: url(../images/home-bg-img.jpeg);
+    background-image: url(../images/home-bg-img.webp);
 }
 
 .featured-img-one {
-    background-image: url(../images/home-bg-img.jpeg);
+    background-image: url(../images/home-bg-img.webp);
 }
 
 /* .featured-img-two {
@@ -1828,8 +1828,8 @@ h6 {
 
 .mh-progress.mh-progress-circle {
     display: inline-block;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
 }
 
 .mh-progress path:nth-child(1) {
