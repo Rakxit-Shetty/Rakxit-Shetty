@@ -1,22 +1,14 @@
-- 👋 Hi, I’m Rakshith Shetty
 
-    I'm not exceptionally gifted neither am i especially bright.
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/rakxi_Shetty)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+
+Hey there 👋
+
+I’m Rakshith Shetty, Student at MIT, Manipal, creative coder and self-proclaimed designer. I'm not exceptionally gifted neither am i especially bright.
     I’m looking to collaborate on building high end Web application.
-    Recent computer Application Student from MIT - Manipal, India.
 
-<p align='center'>
-<a href="https://twitter.com/rakxi_Shetty"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/rakxit_shetty"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rakshith-shetty-"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
--  
+Want to know more about me? [Check out my portfolio.](https://rakshithshetty.vercel.app/)
 
-<!---
-
-[![HitCount](https://hits.dwyl.com/Rakxit-Shetty/Rakxit-Shetty.svg?style=flat-square)](http://hits.dwyl.com/Rakxit-Shetty/Rakxit-Shetty)
-Rakxit-Shetty/Rakxit-Shetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ## &#x1f4c8; GitHub Stats
 
