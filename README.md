@@ -1,7 +1,7 @@
  
 # Hi, I'm Rakshith 👋🏾 
 
-<img align="center"  src="./assets/images/placeholder.webp" alt="placeholder">
+<!--img align="center"  src="./assets/images/placeholder.webp" alt="placeholder"-->
 
 <br>Hey there...
 
