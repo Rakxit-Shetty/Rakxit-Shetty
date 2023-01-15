@@ -20,9 +20,14 @@ I’m Rakshith Shetty, Student at MIT, Manipal, Creative coder and self-proclaim
 
 
 ## &#x1f4c8; GitHub Stats
-
+<br>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rakxit-Shetty&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rakxit-Shetty&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakxit-Shetty&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 <br>
 
+<!--br>
 <a href="https://github.com/Rakxit-Shetty">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakxit-Shetty&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -31,7 +36,7 @@ I’m Rakshith Shetty, Student at MIT, Manipal, Creative coder and self-proclaim
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Rakxit-Shetty&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="RAKKIZ's GitHub Stats" />
 </a>
 
-<br>
+<br-->
 <br>
 
 
