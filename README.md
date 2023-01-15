@@ -8,6 +8,9 @@
 I’m Rakshith Shetty, Student at MIT, Manipal, Creative coder and self-proclaimed designer. I'm not exceptionally gifted neither am i especially bright.
     I’m looking to collaborate on building high end Web application.
 
+### ✍️
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ### Want to know more about me? [Check out my portfolio.](https://rakshithshetty.vercel.app/)
 <br>
 
@@ -40,5 +43,13 @@ I’m Rakshith Shetty, Student at MIT, Manipal, Creative coder and self-proclaim
 <br-->
 <br>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rakxit-Shetty&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Rakxit-Shetty..visitor-badge)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Rakxit-Shetty&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<!-->![visitors](https://visitor-badge.glitch.me/badge?page_id=Rakxit-Shetty..visitor-badge)<-->
