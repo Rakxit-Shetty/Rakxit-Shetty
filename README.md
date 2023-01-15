@@ -47,9 +47,10 @@ I’m Rakshith Shetty, Student at MIT, Manipal, Creative coder and self-proclaim
 ![](https://github-profile-trophy.vercel.app/?username=Rakxit-Shetty&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
-
+<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=Rakxit-Shetty&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<!-->![visitors](https://visitor-badge.glitch.me/badge?page_id=Rakxit-Shetty..visitor-badge)<-->
+
+<!--br>![visitors](https://visitor-badge.glitch.me/badge?page_id=Rakxit-Shetty..visitor-badge)<-->
