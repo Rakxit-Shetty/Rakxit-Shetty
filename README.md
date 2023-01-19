@@ -21,6 +21,11 @@ I’m Rakshith Shetty, Student at MIT, Manipal, Creative coder and self-proclaim
 
 
 ## &#x1f4c8; GitHub Stats
+
+
+![](https://my-readmehit.vercel.app/api?username=Rakxit-Shetty&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+
 <!--br>
 
 ![](https://github-readme-stats.vercel.app/api?username=Rakxit-Shetty&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
@@ -28,8 +33,6 @@ I’m Rakshith Shetty, Student at MIT, Manipal, Creative coder and self-proclaim
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakxit-Shetty&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <br>
-
-
 
 <br>
 <br>
