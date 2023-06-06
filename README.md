@@ -3,10 +3,7 @@
 
 <!--img align="center"  src="./assets/images/placeholder.webp" alt="placeholder"-->
 
-<br>Hey...
-
-I’m Rakshith Shetty, Student at MIT, Manipal, Creative coder and self-proclaimed designer. I'm not exceptionally gifted neither am i especially bright.
-    I’m looking to collaborate on building high end Web application.
+## Friendly neighborhood Webmaster
 
 
 ## Want to know more about me? [Check out my portfolio.](https://rakshithshetty.vercel.app/)
