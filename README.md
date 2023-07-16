@@ -17,7 +17,7 @@
 ## &#x1f4c8; GitHub Stats
 
 
-<!-- ![](https://my-readmehit.vercel.app/api?username=Rakxit-Shetty&theme=dark&hide_border=true&include_all_commits=true&count_private=true) -->
+![](https://my-readmehit.vercel.app/api?username=Rakxit-Shetty&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rakxit-Shetty&theme=dark&hide_border=true)
 
