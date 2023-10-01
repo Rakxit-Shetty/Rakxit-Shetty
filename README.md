@@ -1,7 +1,13 @@
- 
+
+![Web 1920 – 1](https://github.com/Rakxit-Shetty/Rakxit-Shetty/blob/main/assets/images/RakkiShetty.png) <p align="center"> <b>A software engineer who loves building products.</b><br> <br> <a href="https://www.linkedin.com/in/rakshith-shetty-/" target="_blank">LinkedIn</a> | <a href="https://rakshithshetty.vercel.app/" target="_blank">Portfolio</a> | <a href="https://twitter.com/rakxi_Shetty" target="_blank">Twitter</a> | <br><br> </p> 
+
+
+<!-- 
+
+
 # Hi, I'm Rakshith 👋🏾 
 
-<!--img align="center"  src="./assets/images/placeholder.webp" alt="placeholder"-->
+
 
 ## Friendly neighborhood Webmaster
 
@@ -56,3 +62,10 @@
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Rakxit-Shetty..visitor-badge)
+
+-->
+
+
+
+ 
+
