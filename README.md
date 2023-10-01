@@ -1,6 +1,17 @@
 
-![Web 1920 – 1](https://github.com/Rakxit-Shetty/Rakxit-Shetty/blob/main/assets/images/RakkiShetty.png) <p align="center"> <b>A software engineer who loves building products.</b><br> <br> <a href="https://www.linkedin.com/in/rakshith-shetty-/" target="_blank">LinkedIn</a> | <a href="https://rakshithshetty.vercel.app/" target="_blank">Portfolio</a> | <a href="https://twitter.com/rakxi_Shetty" target="_blank">Twitter</a> | <br><br> </p> 
+<div style="background-color: white; padding: 20px;">
 
+![Web 1920 – 1](https://raw.githubusercontent.com/Rakxit-Shetty/Rakxit-Shetty/main/assets/images/home-bg-img.webp)
+
+<p align="center"><b>A software engineer who loves building products.</b></p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rakshith-shetty-/" target="_blank">LinkedIn</a> |
+  <a href="https://rakshithshetty.vercel.app/" target="_blank">Portfolio</a> |
+  <a href="https://twitter.com/rakxi_Shetty" target="_blank">Twitter</a>
+</p>
+
+</div>
 
 <!-- 
 
