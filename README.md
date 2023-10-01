@@ -66,7 +66,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Rakxit-Shetty&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
-<br-->
+<br
 <br>
 ---
 
